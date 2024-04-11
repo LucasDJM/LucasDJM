@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Hoje trabalho de gerente de loja
+- 🔭 Hoje trabalho de gerente de loja.
 - 🌱 estudando java, angular, javascript, mysql, html, css.
-- 🌱 Técnico em desenvolvimento de sistemas
+- 🌱 Formação técnica em desenvolvimento de sistemas.
 
 <a href="https://github.com/LucasDJM/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDJM&theme=dracula" />
