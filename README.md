@@ -4,9 +4,7 @@
 
 - 🔭 Hoje trabalho de gerente de loja
 - 🌱 estudando java, angular, javascript, mysql, html, css.
-- 🌱 estudando no senai para Tecnico em desenvolvimento de sistemas
-- 🌱 lar
-- 😄 Pronouns: ele/dele
+- 🌱 Técnico em desenvolvimento de sistemas
 
 <a href="https://github.com/LucasDJM/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDJM&theme=dracula" />
