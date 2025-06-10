@@ -1,10 +1,33 @@
-'### Olá me chamo Lucas Mota 👋
+# Lucas de Jesus Mota 👋
 
+👨‍💻 Desenvolvedor Web Júnior  
+📍 Salvador – BA  
+🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
+🚀 Participante do Ford <Enter> – formação intensiva em Front-End (300h)  
+💼 Experiência com liderança, gestão de equipes e resolução de problemas  
+🔧 Tecnologias: HTML, CSS, JavaScript, Angular, Git  
+🛠️ Em aprendizado: React.js · Node.js · PostgreSQL · Java (POO)
 
+---
 
-- 🔭 Hoje trabalho de gerente de loja. 
-- 🌱 Formação técnica em desenvolvimento de sistemas.
-- 🌱 Participando do programa Ford<Enter> desevolvimento Front-End
+## 🌱 Estou focado em:
+
+- Desenvolvimento Web com boas práticas e código limpo
+- Projetos front-end responsivos com Angular
+- Participação em projetos colaborativos e ágeis
+
+---
+
+## 🔗 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-mota-230b2b248/)
+- [GitHub](https://github.com/LucasDJM)
+- 📧 lmota9213@gmail.com
+
+---
+
+> 📌 *Aberto a oportunidades como Desenvolvedor Web Júnior – pronto para colaborar, aprender e crescer no mundo tech!*
+
 
 <a href="https://github.com/LucasDJM/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDJM&theme=dracula" />
