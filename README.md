@@ -21,8 +21,8 @@
 ## 🔗 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-mota-230b2b248/)
-- [GitHub](https://github.com/LucasDJM)
 - 📧 lmota9213@gmail.com
+- 📞 (71) 98953-4357
 
 ---
 
